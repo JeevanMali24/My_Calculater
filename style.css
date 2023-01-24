@@ -1,0 +1,21 @@
+.welcome {
+  text-align: center;
+  padding: 14px;
+}
+
+.button {
+  margin: 4px;
+  height: 40px;
+  width: 43px;
+}
+
+.row {
+  text-align: center;
+  margin: 5px;
+}
+
+.search {
+  height: 22px;
+  width: 200px;
+  border: solid;
+}
